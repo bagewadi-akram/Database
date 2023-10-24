@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "employees": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "email": "ak@hm.com",
+      "number": "1234567890",
+      "resume": "jhgdsd"
     }
   ],
   "profile": {
