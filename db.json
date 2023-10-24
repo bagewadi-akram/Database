@@ -1,12 +1,12 @@
 
 {
-  "posts": [
+  "Employees": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "Akram",
+      "email":"ak@gmail.com",
+      "number":"4567891230",
+      "resume": " kjsdfgf"
+    },
+  ]
 }
